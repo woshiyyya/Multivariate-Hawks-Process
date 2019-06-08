@@ -9,13 +9,13 @@ matplotlib=3.0.2
 tqdm=4.28.1
 ```
 
-### Simulation
+### Simulation ![Report](reports/simulation-yunxuanxiao.pdf)
 Run simulation.py to generate a sequence of 20 events. It will print images to show the intensity of each dimension.
 ```bash
 python simulation.py --max_num=20
 ```
 
-### Estimation
+### Estimation ![Report](reports/estimation-yunxuanxiao.pdf)
 
 #### Single-Seq Setting
 Estimate the parameters using a sequence of 1000 events.   
